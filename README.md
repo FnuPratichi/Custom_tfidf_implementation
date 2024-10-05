@@ -23,4 +23,4 @@ To run the code, you will need:
 - NumPy
 - Pandas (for loading the pickle file)
 
-## AppliedAI Online Course 
+-Assignment of AppliedAI Online Course 
